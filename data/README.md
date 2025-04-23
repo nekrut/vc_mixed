@@ -1,4 +1,4 @@
-Files
+# Files
 
 data/pbr322.fa - plasmid sequence
 data/pbr322.fa.fai - fasta index
