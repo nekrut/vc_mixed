@@ -4,8 +4,18 @@ Viral, bacterial, organellar genomes are non-diploid. As a result resquencing st
 
 For the following analysis we selected two data points from [Mei et al. 2019](https://academic.oup.com/gbe/article/11/10/3022/5572121): one corresponding to the beginning of the experiment (s0) and the other to the end (s5). The first sample is expected to be nearly clonal with no variation, while the latter contains a number of adaptive changes with frequencies around 1%. We aligned duplex consensus sequences (DCS) against the pBR322. We then walked through read alignments to produce counts of non-reference bases at each position (Fig. 1). 
 
-| Position | A+ | A- | C+ | C- |G+ | G- |T+ | T- |N+ | N- |
-|---------|----|-----|----|----|----|----|----|----|---|---|
-| 3029 | 5 | 7 | 0 | 0 | 4 | 1 | 5018 | 6417 | 4 | 2 | 
+| Position | A+ | A- | C+ | C- |G+ | G- |T+ | T- |N+ | N- | Del | Ins | 
+|---------|----|-----|----|----|----|----|----|----|---|---|---|---|
+| 3029 | 5 | 7 | 0 | 0 | 4 | 1 | 5018 | 6417 | 4 | 2 |  0 | 0 | 
+| 3030 | 2 | 3 | 2 | 4 | 5010 | 6432 | 0 | 0 | 0 | 13 | 0 | 0 | 
+| 3031 | 2 | 6 | 3 | 0 | 5005 | 6438 | 0 | 0 | 0 | 3 |  0 | 0 | 
+| 3032 | 0 | 1 | 10 | 21 | 1 |  1 | 5011 | 6386 | 2 | 8 | 3 | 0 |
+| 3033 | 4948 | 6367 | 32 | 39 | 2 | 3 | 2 | 8 | 1 | 3 | 0 | 0 | 
+| 3034 | 0 | 0 | 2 | 1 | 4987 | 6374 | 1 | 1 | 0 | 7 | 0 | 0 |
+| 3035 | 1 | 0 | 5015 | 6370 | 0 | 0 | 2 | 1 | 1 | 9 | 0 | 0 | 
+| 3118 | 5 | 11 | 5121 | 6032 | 0 | 0 | 16 | 24 | 1 | 2 | 0 | 0 |
+
+
+
 
 
