@@ -5,7 +5,7 @@ Viral, bacterial, organellar genomes are non-diploid. As a result resquencing st
 For the following analysis we selected two data points from [Mei et al. 2019](https://academic.oup.com/gbe/article/11/10/3022/5572121): one corresponding to the beginning of the experiment (s0) and the other to the end (s5). The first sample is expected to be nearly clonal with no variation, while the latter contains a number of adaptive changes with frequencies around 1%. We aligned duplex consensus sequences (DCS) against the pBR322. We then walked through read alignments to produce counts of non-reference bases at each position (Fig. 1). 
 
 | Position | A+ | A- | C+ | C- |G+ | G- |T+ | T- |N+ | N- | Del | Ins | 
-|---------|----|-----|----|----|----|----|----|----|---|---|---|---|
+|---------|----:|-----:|----:|----:|----:|----:|----:|----:|---:|---:|---:|---:|
 | 3029 | 5 | 7 | 0 | 0 | 4 | 1 | 5018 | 6417 | 4 | 2 |  0 | 0 | 
 | 3030 | 2 | 3 | 2 | 4 | 5010 | 6432 | 0 | 0 | 0 | 13 | 0 | 0 | 
 | 3031 | 2 | 6 | 3 | 0 | 5005 | 6438 | 0 | 0 | 0 | 3 |  0 | 0 | 
