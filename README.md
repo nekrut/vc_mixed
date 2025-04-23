@@ -15,6 +15,7 @@ For the following analysis we selected two data points from [Mei et al. 2019](ht
 | 3035 | 1 | 0 | 5015 | 6370 | 0 | 0 | 2 | 1 | 1 | 9 | 0 | 0 | 
 | 3118 | 5 | 11 | 5121 | 6032 | 0 | 0 | 16 | 24 | 1 | 2 | 0 | 0 |
 
+![image](https://github.com/user-attachments/assets/86dda763-5796-48a0-befe-6497bb989709)
 
 
 
